@@ -15,7 +15,7 @@ export const ThxLayout = () => {
           Не получилось добавить AI Подписку
         </Typography.TitleResponsive>
         <Typography.Text tag="p" view="primary-medium" defaultMargins={false}>
-          Уже знаем в чем дело и чиним. Попробуйте оформить подписку позднее
+          Уже знаем в чём дело и чиним. Попробуйте ещё раз позже
         </Typography.Text>
       </div>
       <Gap size={96} />
